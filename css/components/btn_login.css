@@ -1,0 +1,10 @@
+.btn_login{
+  background-color: rgba(59, 59, 175, 0.76);
+  padding: 8px;
+  margin: 10px 10px;
+  border-radius: 8px;
+}
+
+.btn_login:hover {
+  background-color: gray;
+}
